@@ -123,6 +123,7 @@ vim.opt.breakindent = true
 
 -- Set tabstop to default 4
 vim.opt.tabstop = 4
+vim.opt.shiftwidth = 4
 
 -- Save undo history
 vim.opt.undofile = true
